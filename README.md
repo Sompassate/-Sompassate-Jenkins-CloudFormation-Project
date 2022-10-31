@@ -50,3 +50,7 @@
 - Setup Build Triger
 - Pipeline: Select Pipeline Script From SCM >> Complete the Config and Save
 
+
+###########################################
+http://34.228.8.165:8080/
+
