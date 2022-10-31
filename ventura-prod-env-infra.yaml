@@ -821,7 +821,7 @@ Resources:
   s3Bucket:
     Type: AWS::S3::Bucket
     Properties: 
-      BucketName: Jenkins-CloudFormation-Project
+      BucketName: jenkins-cloudformation-project
       Tags:
         - Key: Name
           Value: Prod-Logs
